@@ -3,9 +3,9 @@ Contributors: keystrokeclick, tentenbiz
 Donate link: https://keystrokeclick.com/
 Tags: protect, admin, user account, admin account, prevent admin deletion, prevent user edit
 Requires at least: 4.7
-Tested up to: 6.5.3
+Tested up to: 6.6.2
 Requires PHP: 5.3
-Stable tag: 2.1.1
+Stable tag: 2.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -99,6 +99,10 @@ At this time, only user with administator role can be protected. This might chan
 
 == Changelog ==
 
+
+= 2.1.2 =
+* Updated Freemius SDK
+* Compatibility check
 
 = 2.1.1 =
 * Updated Freemius SDK
