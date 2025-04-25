@@ -3,7 +3,7 @@
  * Plugin Name: Protect Admin
  * Plugin URI: https://protectadmin.com/plugin/protect-admin-account-pro-wordpress-plugin/
  * Description: Protect admin accounts from being deleted or modified by other users.
- * Version: 2.1.3
+ * Version: 2.1.4
  * Author: Keystroke Click
  * Author URI: https://keystrokeclick.com/
  * Text Domain: protect-admin-account
