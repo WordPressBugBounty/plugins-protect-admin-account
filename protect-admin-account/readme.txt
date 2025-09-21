@@ -5,7 +5,7 @@ Tags: protect, admin, user account, admin account, prevent admin deletion, preve
 Requires at least: 4.7
 Tested up to: 6.8
 Requires PHP: 5.3
-Stable tag: 2.1.4
+Stable tag: 2.1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -98,6 +98,10 @@ At this time, only user with administator role can be protected. This might chan
 5. Error displayed when someone attempts to edit the protected admin account.
 
 == Changelog ==
+
+= 2.1.5 =
+* Updated Freemius SDK
+* Compatibility check
 
 = 2.1.4 =
 * Compatibility check
