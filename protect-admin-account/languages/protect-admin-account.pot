@@ -1,15 +1,15 @@
-# Copyright (C) 2025 Keystroke Click
+# Copyright (C) 2026 Keystroke Click
 # This file is distributed under the same license as the Protect Admin plugin.
 msgid ""
 msgstr ""
-"Project-Id-Version: Protect Admin 2.1.5\n"
+"Project-Id-Version: Protect Admin 2.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/protect-admin-account\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-09-21T00:09:16+00:00\n"
+"POT-Creation-Date: 2026-03-01T19:44:38+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: protect-admin-account\n"
@@ -47,7 +47,7 @@ msgid "Protect Admin Settings"
 msgstr ""
 
 #: includes/paa-options.php:23
-#: index.php:65
+#: index.php:66
 msgid "Settings"
 msgstr ""
 
@@ -233,7 +233,7 @@ msgid "Sorry, you are not allowed to change role of user %s."
 msgstr ""
 
 #. translators: %s: is href for pro-version
-#: index.php:101
+#: index.php:102
 #, php-format
 msgid "There is a new update available for Protect Admin Pro. Please login to <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">your account</a>  to download the latest version."
 msgstr ""
