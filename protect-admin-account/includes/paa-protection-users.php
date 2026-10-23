@@ -171,7 +171,7 @@ if (!function_exists('thp_paa_remove_checkbox')) {
 				foreach ($admins as $admin) {
 					if ( !thp_paa_user_is_activator() && $admin != $current_user) {
 						echo '
-						table.users tr#user-'.$admin.' th.check-column input[type="checkbox"] {
+						table.users tr#user-'.$admin.' .check-column input[type="checkbox"] {
 							display: none !important;
 						}
 						';
